@@ -1,11 +1,11 @@
 # device_xiaomi_flourite-recovery
 
-Recovery tree for this Xiaomi device
-- Xiaomi Redmi Note _15 Pro+_ 5G (codename: `flourite`) (December 2025)
+Recovery tree for these Xiaomi devices:
+- Xiaomi Redmi Note _15 Pro+_ 5G / POCO M8 Pro 5G (codename: `flourite`) (December 2025)
 
 ## Device specifications
 
-Device                  | Redmi Note 15 Pro+ 5G
+Device                  | Redmi Note 15 Pro+ 5G / POCO M8 Pro 5G
 :-----------------------|:-------------------------------------
 SoC                     | Qualcomm Snapdragon® 7s Gen 4 (SM7635-AC)
 Board                   | `volcano`                            
