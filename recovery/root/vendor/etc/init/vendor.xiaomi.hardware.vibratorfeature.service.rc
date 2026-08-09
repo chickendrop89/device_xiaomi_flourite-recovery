@@ -18,6 +18,7 @@ service vibratorfeature-service /vendor/bin/hw/vendor.xiaomi.hardware.vibratorfe
     setenv RICHTAP_DEVICE_PATH /dev/qcom_haptic
     setenv ENV_RICHTAP_CONFIG_PATH /odm/etc/aac_richtap.config
     seclabel u:r:recovery:s0
+    task_profiles CPUSET_SP_TOP_APP
     priority -5
     ioprio rt 5
     disabled
